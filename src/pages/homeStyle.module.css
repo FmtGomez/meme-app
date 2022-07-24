@@ -1,0 +1,27 @@
+.container {
+    margin-top: 50px;
+  }
+  .btn_container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  .skip_left {
+    background-color: #473925;
+    width: 100px;
+    margin-right: 0;
+  }
+  .skip_right{
+    background-color: #473925;
+    width: 100px;
+    margin-left: 0;
+  }
+  .generate {
+    background-color: #2202d8;
+  }
+
+  /* @media (max-widht:425px){
+    .generate{
+      margin-left: 70px;
+}
+    } */
